@@ -1,0 +1,32 @@
+📊 Ekstraksi Data ID Karyawan Menggunakan Excel
+Deskripsi
+Proyek ini berfokus pada ekstraksi data dari ID karyawan menggunakan Microsoft Excel untuk mengubah data menjadi lebih terstruktur dan mudah dipahami.
+
+Dataset
+Data terdiri dari:
+Nama karyawan
+ID karyawan (format: Divisi-Tahun-Kode)
+Contoh:
+SAL-1998-A → SAL | 1998 | A
+
+Tools & Teknik yang Digunakan
+Microsoft Excel
+Fungsi teks (LEFT, MID, RIGHT)
+Pemisahan data berdasarkan pola teks
+Data cleaning dan formatting
+
+Hasil
+Data ID berhasil dipisahkan menjadi beberapa bagian (divisi, tahun, kode)
+Informasi menjadi lebih jelas dan terstruktur
+Data lebih mudah dibaca dan siap dianalisis
+
+Tujuan Proyek
+Melatih penggunaan fungsi teks di Excel
+Memahami proses ekstraksi data dari format kode
+Meningkatkan kemampuan manipulasi data teks
+
+Insight
+Ekstraksi data dari format tertentu merupakan langkah penting dalam proses data cleaning untuk menghasilkan data yang siap digunakan dalam analisis.
+
+Penutup
+Proyek ini merupakan latihan dasar dalam pengolahan data teks menggunakan Microsoft Excel sebagai bagian dari pengembangan skill di bidang data.
